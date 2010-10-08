@@ -4,7 +4,9 @@ javac MariumAquarium.java
 2)Run:
 java MariumAquarium
 
-Optional: 
-You can specify the total number of fish by passing an argument to program
-Ex: Create 100 fish
+Note: 
+You can specify the total number of fish in the aquarium 
+by passing it as the first argument to the program.
+
+Ex:Create an aquarium with 100 fish
 java MariumAquarium 100
