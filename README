@@ -1,0 +1,10 @@
+1)Compile:
+javac MariumAquarium.java
+
+2)Run:
+java MariumAquarium
+
+Optional: 
+You can specify the total number of fish by passing an argument to program
+Ex: Create 100 fish
+java MariumAquarium 100
