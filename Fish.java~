@@ -3,10 +3,9 @@ import java.awt.Point;
 import java.awt.Rectangle;
 import java.util.Random;
 
-//Just changed every instance of North to LOLRTH 
 enum Direction 
 {
-	EAST, WEST, SOUTH, LOLRTH 
+	EAST, WEST, SOUTH, NORTH 
 }
 
 public class Fish 
